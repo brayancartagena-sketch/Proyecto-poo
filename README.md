@@ -1,8 +1,20 @@
 # Proyecto-poo
 Sistema de Gestión para Tienda de Barrio
+
+
+
+
+
 🛍️ Tienda de Ropa (POO en Java)
 Este mini proyecto aplica todos los temas principales de Programación Orientada a Objetos (POO) en Java.
 El objetivo es modelar una tienda de ropa con productos, empleados y métodos de pago, aplicando principios SOLID y buenas prácticas.
+
+
+
+
+
+
+
 
 📌 Conceptos aplicados
 ✔ Modelado con clases y objetos → Producto, Persona, Empleado, Tienda
@@ -11,6 +23,17 @@ El objetivo es modelar una tienda de ropa con productos, empleados y métodos de
 ✔ Abstracción → clase abstracta Persona con método abstracto mostrarRol()
 ✔ Herencia → Empleado hereda de Persona y se especializa en Administrador y Vendedor
 ✔ Polimorfismo
+
+
+
+
+
+
+
+
+
+
+
 
 Sobrescritura con @Override en métodos como mostrarRol()
 Sobrecarga en constructores
