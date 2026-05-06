@@ -1,5 +1,5 @@
 # Proyecto-poo
-Sistema de Gestión para Tienda de Barrio
+Sistema de Gestión para Tienda de ropa
 
 
 
